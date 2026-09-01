@@ -1,6 +1,8 @@
 # Frosty Design
 The design system and resource of Frosty v2. This is my own non-official thoughts.
 
+<img width="3840" height="2160" alt="Test Banner" src="https://github.com/user-attachments/assets/92b54a4f-60a8-4553-ac0e-ab9f8d6f6453" />
+
 ## Backlog
 - A material. Called Frost? Frostier? Frostie? Liquid Ice?
 - A logo that is symmetrical.
